@@ -17,10 +17,11 @@
 - Angular
 <br>
 
-## My projects as Full Stack*
+<div align="center">
+<h2 align="center">Take a look at some of my work</h2>
+</div>
                                                                           
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
 
